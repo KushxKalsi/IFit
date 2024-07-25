@@ -1,4 +1,4 @@
-# Forest
+# IFit
 
 Track your daily step count, stay healthy and fight the climate change, one step at a time.
 
