@@ -7,7 +7,7 @@ Track your daily step count, stay healthy and fight the climate change, one step
 ## 🦁 Table of Contents
 
 
-- [Forest](#forest)
+- [IFIT](#forest)
   - [🦁 Table of Contents](#-table-of-contents)
   - [🌳 Inspiration](#-inspiration)
   - [🥕 Features](#-features)
@@ -32,7 +32,7 @@ A couple of years ago together with my friends, I took a part in a programming c
 
 ## 🐻‍❄️ Installation and First Launch
 
-1. Download the latest prebuilt binary (.apk file) from [Releases](https://github.com/bk20dev/forest/releases)
+1. Download the latest prebuilt binary (.apk file) from [Releases](https://github.com/KushxKalsi/IFit)
 2. Run the downloaded file and temporarily allow instalation from unknown sources if prompted (turn it back off after installation).
 3. Click "Install" and wait for the app to install.
 4. On some devices you may encounter a Play Protect warning, but don't worry - the app is safe to use, and open-sourced. I'm just an unverified developer.
